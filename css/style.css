@@ -1,0 +1,19 @@
+.logo{
+        height: 50px;
+    width: 50px;
+    background-color: gray;
+    background-image: url(https://i.ytimg.com/vi/8tmPOn20KYU/hqdefault.jpg?sqp=-oaymwEoCOADEOgC8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYZSBlKGUwDw==&rs=AOn4CLBxjBtVrloWjOB_SOUFLMAa-QWpVQ);
+    background-size: cover;
+    background-position: center;
+    border-radius: 50%;
+}
+
+.main-header {
+    display: flex
+;
+    justify-content: space-around;
+    align-items: center;
+}
+
+
+    
